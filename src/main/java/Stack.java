@@ -17,7 +17,6 @@ public class Stack {
         top = new StackNode();
         top.weight = newWeight;
         top.down = tmp;
-        return;
     }
 
     public int pop() {
