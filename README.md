@@ -1,2 +1,2 @@
 # Stack
-This is a Java stack algorithm written for the purpose of practicing skills
+This repository contains the code for a basic stack implementation in Java using a linked list.
